@@ -1,0 +1,70 @@
+[17-Apr-2015 00:38:54] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 7
+[17-Apr-2015 00:39:39] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 7
+[17-Apr-2015 00:40:46] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 7
+[17-Apr-2015 00:40:54] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 7
+[17-Apr-2015 00:44:09] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 7
+[17-Apr-2015 00:44:58] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 00:45:08] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 00:45:20] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 00:53:05] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 00:58:00] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 00:58:08] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 7
+[17-Apr-2015 00:58:13] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 7
+[17-Apr-2015 01:05:58] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 03:33:08] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 12:52:07] PHP Fatal error:  Call to a member function query() on a non-object in /home6/sharifme/public_html/toma/Deo.php on line 13
+[17-Apr-2015 13:19:23] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 10
+[17-Apr-2015 13:21:02] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/check.php on line 10
+[17-Apr-2015 14:26:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home6/sharifme/public_html/toma/UpdatedItem.php on line 25
+[17-Apr-2015 14:28:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home6/sharifme/public_html/toma/UpdatedItem.php on line 25
+[17-Apr-2015 14:35:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home6/sharifme/public_html/toma/UpdatedItem.php on line 21
+[17-Apr-2015 16:12:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home6/sharifme/public_html/toma/UpdatedItem.php on line 21
+[17-Apr-2015 18:23:44] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home6/sharifme/public_html/toma/check.php on line 25
+[17-Apr-2015 18:23:44] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home6/sharifme/public_html/toma/check.php on line 29
+[17-Apr-2015 18:26:52] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, resource given in /home6/sharifme/public_html/toma/check.php on line 31
+[17-Apr-2015 21:07:20] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/check.php on line 95
+[17-Apr-2015 21:07:31] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/check.php on line 95
+[17-Apr-2015 21:22:15] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/check.php on line 94
+[17-Apr-2015 21:22:25] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/check.php on line 94
+[22-Apr-2015 12:44:13] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/report.php on line 6
+[22-Apr-2015 12:44:18] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/report.php on line 6
+[22-Apr-2015 12:45:34] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/report.php on line 6
+[22-Apr-2015 12:45:42] PHP Parse error:  syntax error, unexpected T_STRING in /home6/sharifme/public_html/toma/report.php on line 6
+[22-Apr-2015 14:16:20] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/report.php on line 42
+[22-Apr-2015 14:16:24] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/report.php on line 42
+[25-Apr-2015 13:46:19] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 13:46:40] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/patients.php on line 41
+[25-Apr-2015 13:46:44] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 13:55:23] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/patients.php on line 41
+[25-Apr-2015 13:55:40] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 13:56:24] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/patients.php on line 41
+[25-Apr-2015 13:56:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 13:56:37] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/patients.php on line 41
+[25-Apr-2015 14:01:40] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 14:08:36] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 14:09:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 14:19:17] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/doctor.php on line 31
+[25-Apr-2015 14:42:34] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/diagprescription.php on line 27
+[25-Apr-2015 15:34:44] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/diagprescription.php on line 27
+[25-Apr-2015 19:38:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search_result.php on line 1
+[25-Apr-2015 19:38:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search_result.php on line 1
+[25-Apr-2015 19:41:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search_result.php on line 1
+[25-Apr-2015 19:41:08] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search_result.php on line 1
+[25-Apr-2015 19:44:45] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search_result.php on line 1
+[25-Apr-2015 19:47:30] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search_result.php on line 1
+[25-Apr-2015 19:49:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search.php on line 1
+[25-Apr-2015 19:59:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search.php on line 1
+[25-Apr-2015 20:14:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search.php on line 1
+[25-Apr-2015 20:16:10] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home6/sharifme/public_html/toma/search.php on line 1
+[25-Apr-2015 20:20:37] PHP Parse error:  syntax error, unexpected '}' in /home6/sharifme/public_html/toma/search.php on line 1
+[25-Apr-2015 20:25:50] PHP Parse error:  syntax error, unexpected '{' in /home6/sharifme/public_html/toma/search.php on line 1
+[25-Apr-2015 20:25:55] PHP Parse error:  syntax error, unexpected '{' in /home6/sharifme/public_html/toma/search.php on line 1
+[25-Apr-2015 21:50:49] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/check.php on line 25
+[26-Apr-2015 03:13:06] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/diagprescription.php on line 27
+[26-Apr-2015 03:13:07] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/diagprescription.php on line 27
+[26-Apr-2015 03:13:47] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/diagprescription.php on line 27
+[26-Apr-2015 03:14:21] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/diagprescription.php on line 27
+[26-Apr-2015 07:30:14] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home6/sharifme/public_html/toma/diagprescription.php on line 27
+[26-Apr-2015 18:33:12] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/search.php on line 84
+[26-Apr-2015 18:33:28] PHP Parse error:  syntax error, unexpected '<' in /home6/sharifme/public_html/toma/search.php on line 84
+[26-Apr-2015 18:34:50] PHP Parse error:  syntax error, unexpected $end in /home6/sharifme/public_html/toma/search.php on line 88
